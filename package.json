@@ -1,0 +1,14 @@
+{
+  "name": "yarn-bin-missing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ovidiu Cherecheș <skidding@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}

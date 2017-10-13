@@ -1,0 +1,7 @@
+{
+  "name": "yarn-bin-missing-foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ovidiu Cherecheș <skidding@gmail.com>",
+  "license": "MIT"
+}
